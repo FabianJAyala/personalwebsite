@@ -49,7 +49,7 @@ export const Footer = () => {
                 </a>
                 ))}
             </div>
-            <p>FabianDevJourney© 2023. All Rights Reserved</p>
+            <p>FabianDevJourney© 2023. All Rights Reserved.</p>
           </Col>
         </Row>
       </Container>

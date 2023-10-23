@@ -131,7 +131,7 @@ export const Contact = () => {
                         </Form.Group>
                       </Row>
                       <Row className="mb-4">
-                      <Form.Group as={Col} md="12" controlId="validationFormik07">
+                      <Form.Group as={Col} md="12" controlId="validationFormik05">
                           <Form.Label>Message</Form.Label>
                           <Form.Control
                             type="text"

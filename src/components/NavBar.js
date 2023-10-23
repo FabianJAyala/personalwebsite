@@ -43,7 +43,7 @@ export const NavBar = () => {
         <Navbar expand="lg" className={`navbar-header ${isHidden ? 'hidden' : ''}`}>
             <Container>
                 <Navbar.Brand href="#home">
-                    <img src={logo} alt="Logo"/>
+                    <img src={logo} alt="Logo" className="logo-mobile"/>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav">
                     <span className="navbar-toggler-icon"></span>
